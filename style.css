@@ -1,0 +1,49 @@
+body {
+    color: rgb(248, 240, 255);
+    background-color: rgb(36, 36, 36);
+}
+
+.intro {
+    text-align: center;
+}
+
+h1 {
+    color:rgb(196, 132, 255)
+}
+
+.projetos {
+    text-align: center;
+}
+
+h2 {
+    color:rgb(196, 132, 255)
+}
+
+.fotografia {
+    text-align: center;
+}
+
+h3 {
+    color:rgb(196, 132, 255)
+}
+
+.linkfotografia {
+    color: rgb(243, 218, 255);
+    text-decoration: none;
+}
+
+.contato {
+    text-align: center;
+}
+
+h4 {
+    color:rgb(196, 132, 255)
+}
+
+li {
+    list-style:none
+}
+
+.links {
+    color: rgb(243, 218, 255);
+}

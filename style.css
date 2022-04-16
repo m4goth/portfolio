@@ -4,6 +4,7 @@ body {
 }
 
 .intro {
+    font: normal 15px Arial;
     text-align: center;
 }
 
@@ -12,6 +13,7 @@ h1 {
 }
 
 .projetos {
+    font: normal 15px Arial;
     text-align: center;
 }
 
@@ -25,6 +27,7 @@ h2 {
 }
 
 .fotografia {
+    font: normal 15px Arial;
     text-align: center;
 }
 
@@ -38,6 +41,7 @@ h3 {
 }
 
 .contato {
+    font: normal 16px Arial;
     text-align: center;
 }
 
